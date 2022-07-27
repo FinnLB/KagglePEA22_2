@@ -2,3 +2,7 @@
 /goldstandard-clusters/
 /merged.csv
 /train1test2_prediction.csv
+/clusters_effectivness.csv
+/gold_adequate.csv
+/gold_effective.csv
+/gold_ineffective.csv
